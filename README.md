@@ -21,4 +21,4 @@
 ## МОДУЛЬ СВЕТОДИОДНОЙ МАТРИЦЫ С МИКРОСХЕМОЙ MAX7219
 <a id="chapter-0"></a>
 Модуль представляет из себя плату с микросхемой, необходимой для неё обвязкой и, собственно, матричным индикатором. Обычно индикатор не впаивают в плату, а вставляют в разъем. Это сделано для того, чтобы группу модулей можно было сначала закрепить на какой то поверхности винтами, а затем вставить в них матрицы.
-[![LCD_Scrolling](https://github.com/eu4dgc/Arduino_MAX7219_Led_Scrolling_Text/blob/master/IMG/matriz-led-MAX7219.png)]
+[![LCD_Max](https://github.com/eu4dgc/Arduino_MAX7219_Led_Scrolling_Text/blob/master/IMG/matriz-led-MAX7219.png)]
