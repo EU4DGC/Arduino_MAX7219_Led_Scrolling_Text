@@ -1,5 +1,5 @@
 [![QSY.BY](http://qsy.by/wp-content/uploads/2017/06/logo1.png)](http://qsy.by/)
-# БЕГУЩАЯ СТРОКА. ARDUINO. MAX7219 И ПАРА ПРОВОДОВ. http://qsy.by/begushhaya-stroka-arduino-max7219-i-para-provodov/
+## БЕГУЩАЯ СТРОКА. ARDUINO. MAX7219 И ПАРА ПРОВОДОВ. http://qsy.by/begushhaya-stroka-arduino-max7219-i-para-provodov/
 * [ОПИСАНИЕ ПРОЕКТА](#chapter-0)
 * [МОДУЛЬ СВЕТОДИОДНОЙ МАТРИЦЫ С МИКРОСХЕМОЙ MAX7219](#chapter-1)
 * [ВЫВОД ПИКСЕЛЕЙ С ПОМОЩЬЮ БИБЛИОТЕКИ MAX72XXPANEL](#chapter-2)
